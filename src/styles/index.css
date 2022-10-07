@@ -1,4 +1,19 @@
-
+.welcome {
+    background-color: lightgrey;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 1rem;
+}
+.card {
+    margin: 2rem;
+}
+.footer {
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #212529;
+}
 /* 
 
     You can write your own styles here...
